@@ -25,18 +25,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in*****
+  - course: PhD in
    *****
     year: 2012
   - course: MEng in Artificial Intelligence
-    institution: ***** Technology
+    institution:  Technology
     year: 2009
   - course: BSc in Artificial Intelligence
-    institution: ***** of Technology
+    institution:  of Technology
     year: 2008
 
 # Social/Academic Networking
-# For available icons, see: https://*****/academic/docs/page-builder/#icons
+# For available icons, see: https://academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
