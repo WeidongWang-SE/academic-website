@@ -6,7 +6,7 @@ title: Weidong Wang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D，Lecturer of Software Engineering，Master tutor
+role: Ph.D，Lecturer of Software Engineering，Master Supervisor
 
 # Organizations/Affiliations to show in About widget
 organizations:
