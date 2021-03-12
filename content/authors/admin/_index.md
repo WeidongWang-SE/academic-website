@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution:  Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Beijing Jiaotong University
+    year: 2016
+  - course: MEng in Software Engineering
+    institution: Beijing Jiaotong University
+    year: 2011
+  - course: BSc in Automation 
+    institution: Qiqihar University
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
