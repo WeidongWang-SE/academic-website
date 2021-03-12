@@ -18,9 +18,8 @@ bio: Software analytics and big data analysis for intelligent software developme
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Software analytics and big data analysis for intelligent software development
+- Resilient software technologies in mobile and cloud computing
 
 # Education to show in About widget
 education:
