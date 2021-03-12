@@ -6,7 +6,7 @@ title: Weidong Wang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D，Lecturer of Software Engineering
+role: Ph.D，Lecturer of Software Engineering，Master tutor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.bjut.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Software analytics and big data analysis for intelligent software development，Resilient software technologies in mobile and cloud computing
 
 # Interests to show in About widget
 interests:
@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Example is a professor of artificial intelligence at the AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Wang Weidong, lecturer and master supervisor, is interested in developing intelligent software engineering techniques and tools for software design, development and maintenance. His research focuses on two aspects: (1) software analytics and big data analysis for intelligent software development such as consistency checking and recommendation algorithms of code method names; and (2) resilient and intelligent software technologies in mobile and cloud computing, including micro-service composition and maintenance using AI technologies such as deep learning. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
