@@ -22,26 +22,5 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Lecturer
-    company: Beijing University of Technology
-    company_url: 'www.bjut.edu.cn'
-    location: Beijing
-    date_start: '2018-9-30'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Teaching Software Requirements Analysis and Modeling course 
-        * Research on Software Analytics and Mining Software Repositories (MSR) 
-        
-  - title: Postdoctoral researcher 
-    company: Beijing University of Technology 
-    company_url: 'www.bjut.edu.cn'
-    location: Beijing
-    date_start: '2016-10-31'
-    date_end: '2018-9-30'
-    description: Taught operating system and researched micro service computing.
-
-
-
+ 
 ---
