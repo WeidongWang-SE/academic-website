@@ -43,36 +43,5 @@ experience:
     description: Taught operating system and researched micro service computing.
 
 
-  - title: Research Scholar 
-    company: University of Wyoming 
-    company_url: 'www.uwyo.edu'
-    location: Laramie, USA
-    date_start: '2013-01-09'
-    date_end: '2015-01-10'
-    description: Researched Software Reliability.
 
-
-  - title: Research Scholar 
-    company: Lawrence Livermore National Laboratory (LLNL)
-    company_url: 'www.llnl.gov'
-    location: Livermore, USA
-    date_start: '2014-06-01'
-    date_end:   '2014-08-30'
-    description: Researched Software Resilience and OpenMP Parallel Resilience.
-
-  - title: Project Manager 
-    company: Beijing Wellintech Ltd
-    company_url: 'www.wellintech.com'
-    location: Beijing
-    date_start: '2008-04-01'
-    date_end:   '2009-08-31'
-    description: Managed industrial configuration software projects. 
-
-  - title: Engineer 
-    company: Automotive Engineering Corporation
-    company_url: 'en.chinaaie.com.cn'
-    location: Tianjin，China
-    date_start: '2004-07-30'
-    date_end:   '2007-08-31'
-    description: Designed automation software.
 ---
