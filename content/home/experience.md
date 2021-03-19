@@ -29,8 +29,7 @@ experience:
     date_start: '2018-9-30'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
+        Responsibilities include:        
         * Teaching Software Requirements Analysis and Modeling course 
         * Research on Software Analytics and Mining Software Repositories (MSR) 
         
