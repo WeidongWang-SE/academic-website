@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
  - title: Lecturer
     company: Beijing University of Technology
-    company_url: 'www.bjut.edu.cn'
+    company_url: ''
     location: Beijing
     date_start: '2018-9-30'
     date_end: ''
@@ -36,7 +36,7 @@ experience:
         
   - title: Postdoctoral researcher 
     company: Beijing University of Technology 
-    company_url: 'www.bjut.edu.cn'
+    company_url: ''
     location: Beijing
     date_start: '2016-10-31'
     date_end: '2018-9-30'
