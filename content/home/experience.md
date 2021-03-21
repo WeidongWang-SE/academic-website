@@ -34,11 +34,11 @@ experience:
         * Teaching Software Requirements Analysis and Modeling course 
         * Research on Software Analytics and Mining Software Repositories (MSR)
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Postdoctoral researcher 
+    company: Beijing University of Technology 
+    company_url: 'www.bjut.edu.cn'
+    location: Beijing
+    date_start: '2016-10-31'
+    date_end: '2018-9-30'
+    description: Taught operating system and researched micro service computing.
 ---
