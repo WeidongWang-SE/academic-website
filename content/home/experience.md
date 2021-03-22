@@ -22,15 +22,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-<<<<<<< HEAD
- - title: Lecturer
-    company: Beijing University of Technology
-    company_url: ''
-=======
   - title: Lecturer
     company: Beijing University of Technology
-    company_url: 'www.bjut.edu.cn'
->>>>>>> parent of 80c8886... up ex
+    company_url: ''
     location: Beijing
     date_start: '2018-9-30'
     date_end: ''
@@ -38,39 +32,26 @@ experience:
         Responsibilities include:        
         * Teaching Software Requirements Analysis and Modeling course 
         * Research on Software Analytics and Mining Software Repositories (MSR) 
-        
-<<<<<<< HEAD
-        * Teaching Software Requirements Analysis and Modeling course 
-        * Research on Software Analytics and Mining Software Repositories (MSR)
-        
+   
   - title: Postdoctoral researcher 
     company: Beijing University of Technology 
     company_url: ''
-=======
-  - title: Postdoctoral researcher 
-    company: Beijing University of Technology 
-    company_url: 'www.bjut.edu.cn'
->>>>>>> parent of 80c8886... up ex
     location: Beijing
     date_start: '2016-10-31'
     date_end: '2018-9-30'
     description: Taught operating system and researched micro service computing.
-<<<<<<< HEAD
-=======
-
 
   - title: Research Scholar 
     company: University of Wyoming 
-    company_url: 'www.uwyo.edu'
+    company_url: ''
     location: Laramie, USA
     date_start: '2013-01-09'
     date_end: '2015-01-10'
     description: Researched Software Reliability.
 
-
   - title: Research Scholar 
     company: Lawrence Livermore National Laboratory (LLNL)
-    company_url: 'www.llnl.gov'
+    company_url: ''
     location: Livermore, USA
     date_start: '2014-06-01'
     date_end:   '2014-08-30'
@@ -78,7 +59,7 @@ experience:
 
   - title: Project Manager 
     company: Beijing Wellintech Ltd
-    company_url: 'www.wellintech.com'
+    company_url: ''
     location: Beijing
     date_start: '2008-04-01'
     date_end:   '2009-08-31'
@@ -86,10 +67,9 @@ experience:
 
   - title: Engineer 
     company: Automotive Engineering Corporation
-    company_url: 'en.chinaaie.com.cn'
+    company_url: ''
     location: Tianjin，China
     date_start: '2004-07-30'
     date_end:   '2007-08-31'
     description: Designed automation software.
->>>>>>> parent of 80c8886... up ex
 ---
