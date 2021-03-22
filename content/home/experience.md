@@ -34,5 +34,13 @@ experience:
         * Teaching Software Requirements Analysis and Modeling course 
         * Research on Software Analytics and Mining Software Repositories (MSR) 
         * Deploying
-       
+
+  - title: Research Scholar
+    company: University of Wyoming
+    company_url: 'www.uwyo.edu'
+    location: Laramie, USA
+    date_start: '2013-01-10'
+    date_end: '2015-01-09'
+    description: Research on Web Service Analytics and Mining Software Repositories (MSR) 
+            
 ---
