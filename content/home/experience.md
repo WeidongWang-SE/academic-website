@@ -25,7 +25,7 @@ experience:
   - title: Lecturer
     company: Beijing University of Technology
     company_url: ''
-    location: California
+    location: Beijing
     date_start: '2017-01-01'
     date_end: ''
     description: |2-
