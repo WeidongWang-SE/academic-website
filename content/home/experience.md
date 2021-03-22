@@ -33,7 +33,6 @@ experience:
         
         * Teaching Software Requirements Analysis and Modeling course 
         * Research on Software Analytics and Mining Software Repositories (MSR) 
-        * Deploying
 
   - title: Research Scholar
     company: University of Wyoming
@@ -41,6 +40,15 @@ experience:
     location: Laramie, USA
     date_start: '2013-01-10'
     date_end: '2015-01-09'
-    description: Research on Web Service Analytics and Mining Software Repositories (MSR) 
+    description: Research on Web Service Analytics and Mining Software Repositories 
+  
+    - title: Research Scholar
+    company: Lawrence Livermore National Laboratory (LLNL)
+    company_url: 'www.llnl.gov'
+    location: Livermore, USA
+    date_start: '2014-06-01'
+    date_end: '2014-08-30'
+    description: Research on OpenMP Parallel Resilience and Optimization
+    
             
 ---
