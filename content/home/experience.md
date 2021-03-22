@@ -39,7 +39,7 @@ experience:
     company: University X
     company_url: ''
     location: California
-    date_start: 'Jan-02-061'
+    date_start: 'Jan-02-06'
     date_end: 'Feb-02-06'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
