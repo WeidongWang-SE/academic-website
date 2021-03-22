@@ -26,7 +26,7 @@ experience:
     company: Beijing University of Technology
     company_url: ''
     location: Beijing
-    date_start: '2018-09-90'
+    date_start: 'Jan-02-06'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -39,7 +39,7 @@ experience:
     company: University X
     company_url: ''
     location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    date_start: 'Jan-02-061'
+    date_end: 'Feb-02-06'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
