@@ -39,12 +39,12 @@ item:
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+- certificate_url: http://mooc1.chaoxing.com/course/214540855.html?edit=false&articleId=223513666
+  date_end: "2020-12-30"
+  date_start: "2020-09-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: Beijing University of Technology
+  organization_url: https://bjut.fanya.chaoxing.com/portal
+  title: 'Object-oriented Modeling and Analysis: Course'
   url: ""
 ---
