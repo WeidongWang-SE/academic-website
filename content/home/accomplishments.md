@@ -44,7 +44,7 @@ item:
   date_start: "2020-09-01"
   description: ""
   organization: Beijing University of Technology
-  organization_url: https://bjut.fanya.chaoxing.com/portal
+  organization_url: https://english.bjut.edu.cn/
   title: 'Object-oriented Modeling and Analysis: Course'
   url: ""
 ---
