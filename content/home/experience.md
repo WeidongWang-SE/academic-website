@@ -43,12 +43,10 @@ experience:
     description: Research on Web Service Analytics and Mining Software Repositories 
   
   - title: Research Scholar
-    company: Lawrence Livermore National Laboratory (LLNL)
+    company: Lawrence Livermore National Laboratory
     company_url:'www.llnl.gov'
     location: Livermore, USA
     date_start:'2014-06-01'
     date_end:'2014-08-30'
     description:Research on OpenMP Parallel Resilience and Optimization
-    
-            
 ---
