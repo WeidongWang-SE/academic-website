@@ -6,7 +6,7 @@ title: Weidong Wang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D，Lecturer of Software Engineering，Master Supervisor
+role: Associate professor of Software Engineering，Master Supervisor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,15 +24,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Postdoc in Software Engineering 
+    institution: Beijing University of Technology
+    year: 2016-2018
   - course: PhD in Computer Science
     institution: Beijing Jiaotong University
-    year: 2016
+    year: 2011-2016
   - course: MEng in Software Engineering
     institution: Beijing Jiaotong University
-    year: 2011
-  - course: BSc in Automation 
-    institution: Qiqihar University
-    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
